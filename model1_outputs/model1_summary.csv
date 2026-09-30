@@ -1,0 +1,2 @@
+Status,Objective value,Racks used,Total lateness,Total site waiting,Production makespan
+Optimization terminated successfully. (HiGHS Status 7: Optimal),17.5,2,0.0,6.0,15.0

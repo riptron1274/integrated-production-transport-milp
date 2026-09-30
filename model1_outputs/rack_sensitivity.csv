@@ -1,0 +1,5 @@
+Rack limit,Feasible,Racks used,Total lateness,Total site waiting,Production makespan,Objective value
+1,True,1,27.0,6.0,15.0,2712.5
+2,True,2,0.0,6.0,15.0,17.5
+3,True,2,0.0,6.0,15.0,17.5
+4,True,2,0.0,6.0,15.0,17.5
