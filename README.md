@@ -41,7 +41,7 @@ Running the model generates:
 - Schedule visualization
 - Rack fleet sensitivity analysis
 
-Results are saved automatically in the `model1_outputs` folder.
+Results are saved in the `model1_outputs` folder.
 
 ## Requirements
 
