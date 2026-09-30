@@ -3,7 +3,7 @@
 Model 1 — Deterministic Integrated Production–Transport–Rack–Site MILP
 ======================================================================
 
-This is a standalone research prototype for the BYWall-style problem:
+Reuse rack supply chain problem first model:
 
 Production -> Rack assignment -> Transportation -> Site arrival -> Installation
                                       |
